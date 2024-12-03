@@ -29,7 +29,7 @@ Este projeto consiste em uma aplicação Full Stack completa com o objetivo de a
 
  bash
 # Comando para clonar o repositório
-$ git clone https://github.com/LuanJsv/To-Do-List
+$ git clone https://github.com/LuanJsv/To-Do-List.git
 
 
 ### 2. Crie um banco de dados MySQL e as colunas necessárias.
