@@ -1,6 +1,6 @@
 # Task List
 
-## O projeto consiste em uma aplicação Full Stack completa com o objetivo de auxiliar na gestão de atividades e tarefas.
+## O projeto consiste em uma aplicação Full Stack completa com o objetivo de auxiliar na gestão de atividades e tarefas. (Projeto criado para entrega de projeto da Faculdade 2024.)
 
 <br>
  <img align="center" src="/Lista de Tarefas - Google Chrome 03_12_2024 20_14_58.png" />
