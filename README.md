@@ -4,10 +4,6 @@
 
 Este projeto consiste em uma aplicação Full Stack completa com o objetivo de ajudar no gerenciamento de atividades e tarefas.
 
-<br>
-<img align="center" src="backend/src/assets/img/1.jpeg" />
-<br><br>
-
 ## Tecnologias Utilizadas
 
 ### Backend
