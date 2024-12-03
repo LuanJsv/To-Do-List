@@ -2,6 +2,12 @@
 
 ## O projeto consiste em uma aplicação Full Stack completa com o objetivo de auxiliar na gestão de atividades e tarefas.
 
+<br>
+ <img align="center" src="/Lista de Tarefas - Google Chrome 03_12_2024 20_14_58.png" />
+
+<br>
+<br>
+
  
 # Technologies Utilizadas
 
