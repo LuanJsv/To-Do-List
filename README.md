@@ -27,16 +27,18 @@ Este projeto consiste em uma aplicação Full Stack completa com o objetivo de a
 
 ### 1. Clone ou baixe este repositório.
 
-```bash
+ bash
 # Comando para clonar o repositório
+$ git clone https://github.com/LuanJsv/todolist-fullstack.git
 
-$ git clone https://github.com/manualdodev/todolist-fullstack.git
-2. Crie um banco de dados MySQL e as colunas necessárias.
+
+### 2. Crie um banco de dados MySQL e as colunas necessárias.
+
 bash
-Copiar código
 # Comando para criar um banco de dados no terminal MySQL:
 
 $ CREATE DATABASE nome_do_banco;
+
 3. Crie a tabela "tasks" que será utilizada pela aplicação.
 bash
 Copiar código
@@ -70,7 +72,3 @@ Copiar código
 $ npm start
 Isso deve cobrir todos os passos para configurar e rodar a aplicação localmente. Se tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para abrir uma issue no repositório!
 
-rust
-Copiar código
-
-Essa estrutura é padrão para um **README.md** e deve fornecer todas as instruções necessárias para quem for rodar o projeto.
