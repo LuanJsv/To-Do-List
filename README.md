@@ -9,7 +9,7 @@
 <br>
 
  
-# Technologies Utilizadas
+# Tecnologias Utilizadas
 
 ## Backend
 
